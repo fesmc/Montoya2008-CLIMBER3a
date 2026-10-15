@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use these data, please cite the article below and Montoya et al. (2005), doi:10.1007/s00382-005-0044-1."
+title: "CLIMBER-3α present-day and LGM climatologies (Montoya and Levermann, 2008)"
+type: dataset
+license: CC-BY-4.0
+authors:
+  - family-names: Montoya
+    given-names: Marisa
+  - family-names: Levermann
+    given-names: Anders
+repository-code: "https://github.com/fesmc/Montoya2008-CLIMBER3a"
+preferred-citation:
+  type: article
+  title: "Surface wind-stress threshold for glacial Atlantic overturning"
+  authors:
+    - family-names: Montoya
+      given-names: Marisa
+    - family-names: Levermann
+      given-names: Anders
+  journal: "Geophysical Research Letters"
+  volume: 35
+  start: L03608
+  year: 2008
+  doi: "10.1029/2007GL032560"
